@@ -24,7 +24,7 @@ model. It reads observations, ocean model states and the model background to cal
 Matrix, innovation and the analysis increments. 
 
 Details about RODAS and results can be found in
-- Tanajura C.A.S., Santana A, Mignac D, Lima L, Belyaev K, Ji-Ping X (2014) The REMO Ocean Data Assimilation System 
+- Tanajura C.A.S., Santana A, Mignac D, Lima L, Belyaev K, Xie J (2014) The REMO Ocean Data Assimilation System 
 into HYCOM (RODAS_H): General description and preliminary results. J Atmos Oceanic Sci Lett 7: 464-470.
 http://159.226.119.58/aosl/EN/10.3878/j.issn.1674-2834.14.0011.
 - Mignac D, Tanajura CAS, Santana A, Lima LN, Xie J (2015) Argo data assimilation into HYCOM with an EnOI 
